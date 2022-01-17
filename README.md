@@ -28,32 +28,46 @@ lllll
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
 
 ## Screenshots
+
+Step 2 - ‘Registered Datasets’
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/1.1registered_dataset.png)
 
+Step 2 - Experiment Completed
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/1.2exp_complete.png)
 
+Step 2 - Best model
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/1.3best_model.png)
 
+Step 4 - Application Insights Enabled
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/4.1app_insights_enabled.png)
 
+Step 4 - Logs created from the logs.py script
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/4.2logs.png)
 
+Step 5 - Swagger Running on localhost
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/5.1model_API_swagger.png)
 
+Step 5 - File data.json from Swagger
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/5.2data_json.png)
 
+Step 5 - Swagger Pipeline
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/5.3pipeline.png)
 
+Step 6 - Endpoint 1
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/6.1endpoint_1.png)
 
+Step 6 - Endpoint 2
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/6.2endpoint_2.png)
-
+Step 7 - Pipeline created
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/7.1dataset_2.png)
 
+Step 7 - Pipeline endpoint
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/7.2pipeline_rest1.png)
 
+Step 7 - Run Widgets Jupyter
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/7.3jupyter.png)
 
+Step 7 - Experiments
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/7.4experiments.png)
 
 
