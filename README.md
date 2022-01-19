@@ -54,6 +54,10 @@ Step 6 - Published pipeline overview - The REST url/endpoint.
 Step 6 - Pipeline endpoints created without and with Python SDK
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/6.2endpoint_2.png)
 
+Step 6 - Output of the model after data from 2 individuals are given to it.
+![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/6.3endpoint_out.png)
+
+
 Step 7 - Registered Bankmarketing dataset for AutoML experiments
 ![alt text](https://github.com/nsourlos/operationalizing_ML_Project2/blob/main/images/7.1dataset_2.png)
 
