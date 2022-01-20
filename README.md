@@ -12,7 +12,7 @@ To further improve the project the same things as in project 1 could be tested (
 
 ## Screen Recording
 
-https://drive.google.com/file/d/1RFojPLQj9dys4MvSavrEqNLKEMcYsa2I/view?usp=sharing
+https://drive.google.com/file/d/1Ysk_GZxtEuyBFxbMbf0rXbvYqm1KdJEp/view?usp=sharing 
 
 ## Screenshots
 
